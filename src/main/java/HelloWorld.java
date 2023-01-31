@@ -1,3 +1,6 @@
+import org.springframework.context.annotation.Scope;
+
+
 public class HelloWorld {
  
     private String message;
